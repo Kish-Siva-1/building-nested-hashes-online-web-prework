@@ -1,9 +1,9 @@
 def bonus
-  #epic_tragedy[:montague][:patriarch][:name] = "Michael Jordan"
+epic_tragedy[:montague][:patriarch][:name] = "Michael Jordan"
  
-#puts epic_tragedy
+puts epic_tragedy
  
-#  =>
+  =>
 {
    :montague => {
       :patriarch => {name: "Michael Jordan", age: "53"},
