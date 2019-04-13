@@ -27,8 +27,8 @@ puts epic_tragedy
 
   #code your solution here:
 
-  hero=epic_tragedy[:hero]
-  epic_tragedy[:hero]
+  hero = epic_tragedy[:hero]
+  heroine = epic_tragedy[:hero]
   
   #epic_tragedy[:hero] = {status: "dead"}
   #epic_tragedy[:heroine] = {status: "dead"}
