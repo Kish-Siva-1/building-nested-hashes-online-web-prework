@@ -30,6 +30,9 @@ puts epic_tragedy
   hero = epic_tragedy[:hero]
   heroine = epic_tragedy[:hero]
   
+  hero[status] = "dead"
+  heroine[status] = "dead"
+  
   #epic_tragedy[:hero] = {status: "dead"}
   #epic_tragedy[:heroine] = {status: "dead"}
 
