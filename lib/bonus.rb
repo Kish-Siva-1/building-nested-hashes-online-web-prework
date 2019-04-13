@@ -27,15 +27,9 @@ puts epic_tragedy
 
   #code your solution here:
 
-  hero = [:hero]
-  heroine = [:hero]
+  bonus[:montague][:hero][:status] = "dead"
+  bonus[:montague][:heroine][:status] = "dead"
   
-  hero[status] = "dead"
-  heroine[status] = "dead"
-  
-  #epic_tragedy[:hero] = {status: "dead"}
-  #epic_tragedy[:heroine] = {status: "dead"}
-
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
   epic_tragedy
 end
